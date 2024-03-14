@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add CoreML Docs Integrations Page (#8063)
